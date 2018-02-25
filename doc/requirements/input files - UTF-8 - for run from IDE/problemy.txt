@@ -1,0 +1,22 @@
+1. Archiv není ve formátu .zip (je .arj, .rar, atp.)
+2. Archiv nejde rozbalit Unixovým příkazem unzip
+3.[F1] V archivu jsou jiné než přikázané soubory
+4. Program kontrola-jmen nalezl špatně pojmenované soubory
+5. Program kontrola-jmen nalezl chybějící úvodní komentář
+6. Zdrojové soubory mají příponu .CPP nebo .cpp nebo .C
+7. Zdrojové soubory mají příponu .H
+8. Problémy se zdrojovými soubory # 4 5 6 7
+9. Použita neexistující čtyřpísmenná zkratka
+10. Jméno výsledného souboru není snort.exe
+11. Jméno výsledného souboru není ttpc.exe
+12. Soubor Makefile chybí
+13. Soubor Makefile je nefunkční
+14. Při překladu zdrojových souborů jsou hlášeny chyby
+15. Při překladu zdrojových souborů jsou hlášena varovná hlášení
+16. Problémy při překladu # 14 15
+17. Po spuštění program v dávkovém režimu padá
+18.[F2] Program v dávkovém režimu čeká na stisk klávesy
+19. Program v dávkovém režimu nedává požadované výsledky
+20.[F3] Špatná funkce programu # 18 19
+21. Pokus o odevzdání programu jinak než e-mailem
+22. Chybí dokumentace
